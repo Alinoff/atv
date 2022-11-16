@@ -2,7 +2,7 @@
   .carrossel {
     grid-template-columns: 1fr;
     grid-template-rows: 1.3fr 1fr;
-    margin-bottom: 415px;
+    margin-bottom: 380px;
   }
   .swiper {
     height: 40vh;
